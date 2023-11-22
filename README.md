@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/josivaldo ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josivaldo ribeiro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josivaldo ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josivaldo ribeiro" height="30" width="40" /></a>
+<a href="[https://codepen.io/josivaldo ribeiro](https://codepen.io/josivaldo-ribeiro)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josivaldo ribeiro" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/josivaldo ribeiro](https://www.linkedin.com/in/josivaldo-freitas-1b898310a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josivaldo ribeiro" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Jo3chosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josivaldo ribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/chosennnnnnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chosennnnnnnnn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chosen x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chosen x" height="30" width="40" /></a>
