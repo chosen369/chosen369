@@ -1,5 +1,5 @@
 <h1 align="center">Ola👋 meu nome é josivaldo ribeiro </h1>
-<h3 align="center">Front-end Developer | vanilla | angular | react | javascript |typescript</h3>
+<h3 align="center">Front-end Developer | vanilla | angular | react | javascript |typescript | Html | css</h3>
 
 - 📫 How to reach me **josivaldo.freitas@gmail.com**
 
